@@ -3,6 +3,6 @@ In this repository I store the websites that I made when I just started working 
 At the time I was about 8 years old.
 It's not that interesting, but here you go:
 
-- Searchplay: https://yendric.github.io/searchplay/
+- Searchplay: https://yendric.github.io/SearchPlay/
 - YVR-ONLINE: https://yendric.github.io/YVR-ONLINE/
-- TCF: https://yendric.github.io/tcfwebsite1.0/
+- TCF: https://yendric.github.io/TheComputerFriends
